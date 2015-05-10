@@ -18,5 +18,5 @@ libraryDependencies ++= Seq(
   "org.webjars" % "requirejs" % "2.1.17",
   "org.webjars" % "jquery" % "2.1.4",
   "org.webjars" % "d3js" % "3.5.5-1",
-  "org.webjars" % "c3" % "0.4.9"
+  "org.webjars" % "c3" % "0.4.9-1"
 )
